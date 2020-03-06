@@ -1,4 +1,4 @@
-data
+.data
 var1 : .asciz " %d\ n"
 .text
 cb
